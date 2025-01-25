@@ -1,2 +1,2 @@
-# MyBlog-Django-
+# MyBlog
 MyBlog(Django)
